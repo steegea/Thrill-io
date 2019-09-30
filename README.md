@@ -13,7 +13,9 @@ Thrill-io is a Java bookmarking app that I developed as part of the Udemy course
 ### Project Summary
 During the course, I implemented features such as the *Browse* and *My Books* pages, where the *Browse* page shows the list of all books that a user can bookmark, while the *My Books* page displays all the books that a user has bookmarked.
 
+I also developed a login page in addition to the *Browse* and *My Books* pages.
 
+### Post-Course
 Since completing this course, I have extended this project for fun. Some *new features* that I added to the project since the end of the course include:
 
 * Adding a sign-up page
