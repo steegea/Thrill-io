@@ -1,0 +1,5 @@
+In the code, there are some functions related to retrieving movies and web links.
+
+Initially, the application was developed such that users could bookmark books, movies, and web-links.
+
+In this case, it was a console-based application.
