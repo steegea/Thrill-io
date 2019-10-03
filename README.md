@@ -2,6 +2,9 @@
 
 Thrill-io is a Java bookmarking app that I developed as part of the Udemy course: **Java In Depth: Become A Complete Java Engineer**.
 
+*I am looking into potentially uploading this app as well as some of my Python projects on a cloud-based server (i.e. Heroku).*
+
+
 **Technlogies Used**
 
 * Java
