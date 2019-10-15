@@ -29,7 +29,7 @@ Since completing this course, I have extended this project for fun. Some *new fe
   * I have utilized the Jsoup library (not covered in the course)
   
 * Adding login & signup field validation
-   * Client-Side: Based on the specific HTML pattern attribute value
+   * Client-Side: Based on the specific HTML **pattern** attribute value
    * Server-Side: Whether a user exists
      * By verifying their email with the database
   
