@@ -81,8 +81,6 @@ public class AuthController extends HttpServlet {
 					else {
 						
 						session.setAttribute("userId", userId);
-						session.setAttribute("signup_error", "You have successfully created your account. "
-								+ "Please proceed to the login page to start using your account.");
 						
 						response.sendRedirect("/ThrillioWeb_Heroku/auth");
 
