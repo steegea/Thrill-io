@@ -90,4 +90,9 @@ public class UserManager {
 	public long newSignUp(String email, String password, String firstName, String lastName, String gender) {
 		return dao.newSignUp(email, StringUtil.encodePassword(password), firstName, lastName, gender);
 	}
+	
+	public long checkForExistingUser(String email) {
+		return dao.checkForExistingUser(email);
+	}
+	
 }
